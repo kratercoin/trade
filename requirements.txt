@@ -1,0 +1,20 @@
+# //requirements
+# selenium-webdriver
+# ws
+# dotenv
+# node-fetch
+# chromedriver
+
+# Explanation
+# selenium-webdriver: This package is necessary for using Selenium in Node.js, allowing you to automate web browser interactions.
+# ws: A WebSocket client library for Node.js, used to connect to and communicate with WebSocket servers.
+# dotenv: This module is used to load environment variables from a .env file into process.env, making it easy to manage API keys and other sensitive information.
+# node-fetch: A lightweight module that brings window.fetch to Node.js, used for making HTTP requests.
+# chromedriver: The ChromeDriver package is required to control the Chrome browser when using Selenium. This allows you to interact with Chrome programmatically.
+# Installing Packages
+
+# To install these packages, you can use the following command in your terminal:
+
+# npm install selenium-webdriver ws dotenv node-fetch chromedriver
+
+# Make sure you have Node.js and npm installed on your system before running the above command. This will add the packages to your package.json and package-lock.json, allowing for consistent dependency management.

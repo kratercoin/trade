@@ -1,0 +1,25 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "chrome": "^0.1.0",
+    "chromedriver": "^127.0.1",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "selenium-webdriver": "^4.23.0",
+    "ws": "^8.18.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
